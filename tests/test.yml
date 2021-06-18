@@ -3,4 +3,4 @@
   remote_user: root
   become: true
   roles:
-    - roles/froststevefrost.set-hostfile
+    - roles/froststevefrost.set_hostfile
