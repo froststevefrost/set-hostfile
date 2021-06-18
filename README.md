@@ -33,11 +33,11 @@ Example Playbook
 ----------------
 
 ```yaml
-  - name: Set /etc/hosts file to Ansible inventory hosts
-    hosts: servers
-    become: true
-    roles:
-      - role: 
+- name: Set /etc/hosts file to Ansible inventory hosts
+  hosts: servers
+  become: true
+  roles:
+    - role: 
 ```
 License
 -------
