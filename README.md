@@ -12,6 +12,11 @@ Role will grab all of the hosts defined in the default inventory and create a ty
 192.168.1.52 node2.example.com node2
 ```
 
+Notice
+------
+
+This isn't meant to be an end-all/be-all role, just a proof-of-concept test for me to learn Ansible-Galaxy.
+
 
 Requirements
 ------------
