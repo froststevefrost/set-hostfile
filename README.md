@@ -37,7 +37,7 @@ Example Playbook
   hosts: servers
   become: true
   roles:
-    - role: 
+    - role: froststevefrost.set-hostfile 
 ```
 License
 -------
